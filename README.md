@@ -560,7 +560,7 @@ RSS: https://menthas.com/all/rss
 
 
 ## #news-weekly-ascii
-
+RSS: https://weekly.ascii.jp/cate/1/rss.xml
 
 ## #news-wired
 
