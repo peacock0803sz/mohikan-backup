@@ -3,6 +3,11 @@ mohikan-backup
 本家のバックアップ用です。フィード等追加したらPRください。
 チャンネルごとに紐付いてるアプリと設定を書いていきます。
 
+テンプレ
+```
+## {チャンネル名}
+アプリ名: 設定、URLなど
+```
 
 ## #_business_idea
 
@@ -20,7 +25,7 @@ mohikan-backup
 
 
 ## #_hatebu
-
+RSS: http://b.hatena.ne.jp/hotentry.rss
 
 ## #_hatebu_hotentry
 
@@ -320,7 +325,7 @@ mohikan-backup
 
 
 ## #hatebu-it
-
+http://b.hatena.ne.jp/hotentry/it.rss
 
 ## #hatena
 
