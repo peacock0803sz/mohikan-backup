@@ -218,6 +218,7 @@ Twitter: from:@azurestatusjp_a exclude:replys
 
 ## #developers_io
 
+RSS: https://dev.classmethod.jp/feed/
 
 ## #devops
 
@@ -559,7 +560,7 @@ RSS: https://menthas.com/all/rss
 
 
 ## #news-weekly-ascii
-
+RSS: https://weekly.ascii.jp/cate/1/rss.xml
 
 ## #news-wired
 
