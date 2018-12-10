@@ -218,6 +218,7 @@ Twitter: from:@azurestatusjp_a exclude:replys
 
 ## #developers_io
 
+RSS: https://dev.classmethod.jp/feed/
 
 ## #devops
 
