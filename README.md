@@ -1,4 +1,4 @@
-mohikan-backup
+# mohikan-backup
 
 本家のバックアップ用です。フィード等追加したらPRください。
 チャンネルごとに紐付いてるアプリと設定を書いていきます。
@@ -6,6 +6,7 @@ mohikan-backup
 テンプレ
 ```
 ## {チャンネル名}
+
 アプリ名: 設定、URLなど
 ```
 
@@ -25,6 +26,7 @@ mohikan-backup
 
 
 ## #_hatebu
+
 RSS: http://b.hatena.ne.jp/hotentry.rss
 
 ## #_hatebu_hotentry
@@ -146,6 +148,7 @@ RSS: http://b.hatena.ne.jp/hotentry.rss
 
 ## #cloud-azure
 
+Twitter: from:@azurestatusjp_a exclude:replys
 
 ## #cloud-bluemix
 
@@ -284,6 +287,7 @@ RSS: http://b.hatena.ne.jp/hotentry.rss
 
 ## #github-trending-all
 
+RSS: http://github-trends.ryotarai.info/rss/github_trends_all_daily.rss
 
 ## #grandgirafe
 
@@ -325,6 +329,7 @@ RSS: http://b.hatena.ne.jp/hotentry.rss
 
 
 ## #hatebu-it
+
 http://b.hatena.ne.jp/hotentry/it.rss
 
 ## #hatena
@@ -521,6 +526,7 @@ http://b.hatena.ne.jp/hotentry/it.rss
 
 ## #menthas-top
 
+RSS: https://menthas.com/all/rss
 
 ## #mentthas_top
 
@@ -599,6 +605,7 @@ http://b.hatena.ne.jp/hotentry/it.rss
 
 ## #qiita_popular
 
+RSS: https://qiita.com/popular-items/feed.atom
 
 ## #qiita_qaleidospace_72
 
@@ -784,5 +791,3 @@ http://b.hatena.ne.jp/hotentry/it.rss
 
 
 ## #都市環境機構
-
-
