@@ -409,7 +409,9 @@ RSS:
 
 
 ## #lang-csharp
-
+RSS:https://blogs.msdn.microsoft.com/dotnet/feed/  
+RSS:https://blogs.msdn.microsoft.com/visualstudio/feed/  
+RSS:https://qiita.com/tags/csharp/feed
 
 ## #lang-css
 
