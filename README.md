@@ -372,10 +372,11 @@ http://b.hatena.ne.jp/hotentry/it.rss
 ## #japan-gov-announce
 
 RSS:
-https://www.mhlw.go.jp/stf/news.rdf
-https://www.mof.go.jp/news.rss
-http://www.meti.go.jp/statistics/st_news.xml
-https://www.ipa.go.jp/about/kobo-rss.rdf
+
+- https://www.mhlw.go.jp/stf/news.rdf
+- https://www.mof.go.jp/news.rss
+- http://www.meti.go.jp/statistics/st_news.xml
+- https://www.ipa.go.jp/about/kobo-rss.rdf
 
 ## #jobs
 
