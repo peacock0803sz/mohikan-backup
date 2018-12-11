@@ -546,6 +546,20 @@ RSS: https://menthas.com/all/rss
 
 ## #news-it-ja
 
+RSS:
+
+- https://gihyo.jp/feed/rss2
+- https://cloud.watch.impress.co.jp/data/rss/1.0/clw/feed.rdf
+- https://forest.watch.impress.co.jp/data/rss/1.0/wf/feed.rdf
+- http://feeds.japan.cnet.com/rss/cnet/blog.rdf
+- https://codezine.jp/rss/new/20/index.xml
+- https://rss.itmedia.co.jp/rss/2.0/itmedia_all.xml
+- https://internet.watch.impress.co.jp/data/rss/1.0/iw/feed.rdf
+- http://feeds.japan.cnet.com/rss/cnet/all.rdf
+- http://feeds.japan.zdnet.com/rss/zdnet/all.rdf
+- https://www.gizmodo.jp/index.xml
+- https://techable.jp/feed
+
 
 ## #news-it-ja-hardware
 
