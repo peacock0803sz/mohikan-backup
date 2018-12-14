@@ -112,6 +112,20 @@ RSS: http://b.hatena.ne.jp/hotentry.rss
 
 ## #blog-ja
 
+RSS:
+- https://tech.actindi.net/feed
+- http://www.techscore.com/blog/feed
+- https://techlife.cookpad.com/
+- https://japan.googleblog.com/atom.xml
+- http://labs.gree.jp/blog/
+- https://tech.mercari.com/
+- https://techblog.yahoo.co.jp/atom.xml
+- https://developers-jp.googleblog.com/atom.xml
+- https://allabout-tech.hatenablog.com/feed
+- https://www.lifull.blog/feed
+- https://postd.cc/feed/
+- http://tech.connehito.com/feed
+- https://tech.studyplus.co.jp/feed
 
 ## #blue0552_sandbox
 
@@ -546,20 +560,6 @@ RSS: https://menthas.com/all/rss
 
 ## #news-it-ja
 
-RSS:
-- https://tech.actindi.net/feed
-- http://www.techscore.com/blog/feed
-- https://techlife.cookpad.com/
-- https://japan.googleblog.com/atom.xml
-- http://labs.gree.jp/blog/
-- https://tech.mercari.com/
-- https://techblog.yahoo.co.jp/atom.xml
-- https://developers-jp.googleblog.com/atom.xml
-- https://allabout-tech.hatenablog.com/feed
-- https://www.lifull.blog/feed
-- https://postd.cc/feed/
-- http://tech.connehito.com/feed
-- https://tech.studyplus.co.jp/feed
 
 ## #news-it-ja-hardware
 
