@@ -623,6 +623,14 @@ RSS: https://weekly.ascii.jp/cate/1/rss.xml
 
 ## #podcast
 
+RSS:http://feed.mozaic.fm/  
+RSS:http://feeds.soundcloud.com/users/soundcloud:users:230945921/sounds.rss  
+RSS:http://feeds.rebuild.fm/rebuildfm  
+RSS:https://soussune.com/feed.xml  
+RSS:https://ajito.fm/index.xml  
+RSS:http://feeds.soundcloud.com/users/soundcloud:users:294673416/sounds.rss  
+RSS:https://yatteiki.fm/feed.xml  
+RSS:https://feeds.turingcomplete.fm/tcfm  
 
 ## #public_cloud
 
