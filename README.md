@@ -11,112 +11,112 @@
 
 ### テンプレ
 ```
-## {チャンネル名}
+### {チャンネル名}
 
 アプリ名: 設定、URLなど
 ```
 
-## #_business_idea
+### #_business_idea
 
 
-## #_event
+### #_event
 
 
-## #_feeding_test
+### #_feeding_test
 
 
-## #_general
+### #_general
 
 
-## #_growth_hack
+### #_growth_hack
 
 
-## #_hatebu
+### #_hatebu
 
 RSS: http://b.hatena.ne.jp/hotentry.rss
 
-## #_hatebu_hotentry
+### #_hatebu_hotentry
 
 
-## #_information
+### #_information
 
 
-## #_mistake
+### #_mistake
 
 
-## #_nomikai
+### #_nomikai
 
 
-## #_sale
+### #_sale
 
 
-## #_seminar
+### #_seminar
 
 
-## #-general
+### #-general
 
 
-## #110_itmedia
+### #110_itmedia
 
 
-## #723
+### #723
 
 
-## #a5hrd5k-private
+### #a5hrd5k-private
 
 
-## #academics
+### #academics
 
 
-## #advent-calendar-2016
+### #advent-calendar-2016
 
 
-## #advent-calendar-2017
+### #advent-calendar-2017
 
 
-## #advent-calendar-2018
+### #advent-calendar-2018
 
 
-## #adventカレンダー
+### #adventカレンダー
 
 
-## #aichi
+### #aichi
 
 
-## #android
+### #android
 
 
-## #announcements
+### #announcements
 
 
-## #appleーseibizumi
+### #appleーseibizumi
 
 
-## #apps-infra
+### #apps-infra
 
 
-## #architecture
+### #architecture
 
 
-## #artificial-intelligen
+### #artificial-intelligen
 
 
-## #arxivtimes
+### #arxivtimes
 
 
-## #aws
+### #aws
 
 
-## #aws_search
+### #aws_search
 
 
-## #blockchain
+### #blockchain
 
 
-## #blog-en
+### #blog-en
 
 
-## #blog-ja
+### #blog-ja
 
 RSS:
 - https://tech.actindi.net/feed
@@ -133,263 +133,263 @@ RSS:
 - http://tech.connehito.com/feed
 - https://tech.studyplus.co.jp/feed
 
-## #blue0552_sandbox
+### #blue0552_sandbox
 
 
-## #bot
+### #bot
 
 
-## #bot-playground
+### #bot-playground
 
 
-## #bsd
+### #bsd
 
 
-## #buzz
+### #buzz
 
 
-## #cakes
+### #cakes
 
 
-## #cfp-security
+### #cfp-security
 
 
-## #changelog
+### #changelog
 
 
-## #chat_bot
+### #chat_bot
 
 
-## #chatbot
+### #chatbot
 
 
-## #cloud-aws
+### #cloud-aws
 
 
-## #cloud-azure
+### #cloud-azure
 
 Twitter: from:@azurestatusjp_a exclude:replys
 
-## #cloud-bluemix
+### #cloud-bluemix
 
 
-## #cloud-gcp
+### #cloud-gcp
 
 
-## #cloud-misc
+### #cloud-misc
 
 
-## #cloud-serverless
+### #cloud-serverless
 
 
-## #competitive
+### #competitive
 
 
-## #connpass
+### #connpass
 
 
-## #cooking
+### #cooking
 
 
-## #creative-coding
+### #creative-coding
 
 
-## #ctf
+### #ctf
 
 
-## #cyzo
+### #cyzo
 
 
-## #db
+### #db
 
 
-## #db-cassandra
+### #db-cassandra
 
 
-## #db-hbase
+### #db-hbase
 
 
-## #db-mongo
+### #db-mongo
 
 
-## #db-mysql
+### #db-mysql
 
 
-## #db-oracle
+### #db-oracle
 
 
-## #db-postgres
+### #db-postgres
 
 
-## #db-rethinkdb
+### #db-rethinkdb
 
 
-## #deep
+### #deep
 
 
-## #deep_learning
+### #deep_learning
 
 
-## #deleted_1
+### #deleted_1
 
 
-## #design
+### #design
 
 
-## #developers_io
+### #developers_io
 
 RSS: https://dev.classmethod.jp/feed/
 
-## #devops
+### #devops
 
 
-## #django
+### #django
 
 
-## #dmca
+### #dmca
 
 
-## #docker
+### #docker
 
 
-## #dots-slide-daily
+### #dots-slide-daily
 
 
-## #dots-slide-monthly
+### #dots-slide-monthly
 
 
-## #ebook-new-release
+### #ebook-new-release
 
 
-## #ebook-sale
+### #ebook-sale
 
 
-## #eccube3
+### #eccube3
 
 
-## #elasticsearch
+### #elasticsearch
 
 
-## #emacs
+### #emacs
 
 
-## #english
+### #english
 
 
-## #eve
+### #eve
 
 
-## #event
+### #event
 
 
-## #event_top50
+### #event_top50
 
 
-## #firebase
+### #firebase
 
 
-## #free-prog-books-ja
+### #free-prog-books-ja
 
 
-## #fw-mesosphere
+### #fw-mesosphere
 
 
-## #fw-spark
+### #fw-spark
 
 
-## #general
+### #general
 
 
-## #gest
+### #gest
 
 
-## #github_extra
+### #github_extra
 
 
-## #github-trending-all
+### #github-trending-all
 
 RSS: http://github-trends.ryotarai.info/rss/github_trends_all_daily.rss
 
-## #grandgirafe
+### #grandgirafe
 
 
-## #groovy
+### #groovy
 
 
-## #hackernews-ja
+### #hackernews-ja
 
 
-## #hackernews100
+### #hackernews100
 
 
-## #hackernews150
+### #hackernews150
 
 
-## #hackernews20
+### #hackernews20
 
 
-## #hackernews300
+### #hackernews300
 
 
-## #hackernews50
+### #hackernews50
 
 
-## #hacking
+### #hacking
 
 
-## #hadoop
+### #hadoop
 
 
-## #hashicorp
+### #hashicorp
 
 
-## #hate
+### #hate
 
 
-## #hatebu
+### #hatebu
 
 
-## #hatebu-it
+### #hatebu-it
 
 http://b.hatena.ne.jp/hotentry/it.rss
 
-## #hatena
+### #hatena
 
 
-## #hm
+### #hm
 
 
-## #incoming-webhooks
+### #incoming-webhooks
 
 
-## #infra
+### #infra
 
 
-## #infra_workshop
+### #infra_workshop
 
 
-## #internet_backbone
+### #internet_backbone
 
 
-## #ios
+### #ios
 
 
-## #iot
+### #iot
 
 
-## #iot-arduino
+### #iot-arduino
 
 
-## #iot-bluetooth
+### #iot-bluetooth
 
 
-## #iot-ja
+### #iot-ja
 
 
-## #ja-news
+### #ja-news
 
 
-## #japan-gov-announce
+### #japan-gov-announce
 
 RSS:
 
@@ -398,423 +398,423 @@ RSS:
 - http://www.meti.go.jp/statistics/st_news.xml
 - https://www.ipa.go.jp/about/kobo-rss.rdf
 
-## #jobs
+### #jobs
 
 
-## #js-reactjs
+### #js-reactjs
 
 
-## #kafka
+### #kafka
 
 
-## #kaggle
+### #kaggle
 
 
-## #know_aws_cw
+### #know_aws_cw
 
 
-## #kowai
+### #kowai
 
 
-## #lang
+### #lang
 
 
-## #lang_eli
+### #lang_eli
 
 
-## #lang-clojure
+### #lang-clojure
 
 
-## #lang-cpp
+### #lang-cpp
 
 
-## #lang-csharp
+### #lang-csharp
 
 
-## #lang-css
+### #lang-css
 
 
-## #lang-dart
+### #lang-dart
 
 
-## #lang-elixir
+### #lang-elixir
 
 
-## #lang-elm
+### #lang-elm
 
 
-## #lang-erlang
+### #lang-erlang
 
 
-## #lang-go
+### #lang-go
 
 
-## #lang-haskell
+### #lang-haskell
 
 
-## #lang-java
+### #lang-java
 
 
-## #lang-javascript
+### #lang-javascript
 
 
-## #lang-javascript-en
+### #lang-javascript-en
 
 
-## #lang-julia
+### #lang-julia
 
 
-## #lang-kotlin
+### #lang-kotlin
 
 
-## #lang-lisp
+### #lang-lisp
 
 
-## #lang-ocaml
+### #lang-ocaml
 
 
-## #lang-perl
+### #lang-perl
 
 
-## #lang-php
+### #lang-php
 
 
-## #lang-purs
+### #lang-purs
 
 
-## #lang-python
+### #lang-python
 
 
-## #lang-r
+### #lang-r
 
 
-## #lang-ruby
+### #lang-ruby
 
 
-## #lang-rust
+### #lang-rust
 
 
-## #lang-scala
+### #lang-scala
 
 
-## #lang-swift
+### #lang-swift
 
 
-## #lang-typescript
+### #lang-typescript
 
 
-## #laravel
+### #laravel
 
 
-## #learn_english
+### #learn_english
 
 
-## #legend_matz
+### #legend_matz
 
 
-## #legend_ohmae
+### #legend_ohmae
 
 
-## #legend-martinfowloer
+### #legend-martinfowloer
 
 
-## #legend-paulgraham
+### #legend-paulgraham
 
 
-## #library
+### #library
 
 
-## #linux
+### #linux
 
 
-## #linux-kernel
+### #linux-kernel
 
 
-## #lunch
+### #lunch
 
 
-## #mac
+### #mac
 
 
-## #machine-learning
+### #machine-learning
 
 
-## #mackerel
+### #mackerel
 
 
-## #media_art
+### #media_art
 
 
-## #memo
+### #memo
 
 
-## #menthas_top
+### #menthas_top
 
 
-## #menthas-top
+### #menthas-top
 
 RSS: https://menthas.com/all/rss
 
-## #mentthas_top
+### #mentthas_top
 
 
-## #movie-channel9
+### #movie-channel9
 
 
-## #news-gartner
+### #news-gartner
 
 
-## #news-it-ja
+### #news-it-ja
 
 
-## #news-it-ja-hardware
+### #news-it-ja-hardware
 
 
-## #news-itmedia-keymans
+### #news-itmedia-keymans
 
 
-## #news-marketing
+### #news-marketing
 
 
-## #news-oss
+### #news-oss
 
 
-## #news-tech_crunch
+### #news-tech_crunch
 
 
-## #news-venture
+### #news-venture
 
 
-## #news-weekly-ascii
+### #news-weekly-ascii
 RSS: https://weekly.ascii.jp/cate/1/rss.xml
 
-## #news-wired
+### #news-wired
 
 
-## #news-wireless-wire
+### #news-wireless-wire
 
 
-## #nlp_text_mining
+### #nlp_text_mining
 
 
-## #no-engineer
+### #no-engineer
 
 
-## #note-marketing
+### #note-marketing
 
 
-## #okinawa
+### #okinawa
 
 
-## #oracle-academy-rss
+### #oracle-academy-rss
 
 
-## #pdev
+### #pdev
 
 
-## #pepper
+### #pepper
 
 
-## #personal
+### #personal
 
 
-## #personal_article
+### #personal_article
 
 
-## #photoshop
+### #photoshop
 
 
-## #podcast
+### #podcast
 
 
-## #public_cloud
+### #public_cloud
 
 
-## #qiita_popular
+### #qiita_popular
 
 RSS: https://qiita.com/popular-items/feed.atom
 
-## #qiita_qaleidospace_72
+### #qiita_qaleidospace_72
 
 
-## #qiita_top10_daily
+### #qiita_top10_daily
 
 
-## #qiita_top10_weekly
+### #qiita_top10_weekly
 
 
-## #qiita_twitter_bot
+### #qiita_twitter_bot
 
 
-## #rails
+### #rails
 
 
-## #random
+### #random
 
 
-## #rss-job-seeker
+### #rss-job-seeker
 
 
-## #rss-web
+### #rss-web
 
 
-## #sale
+### #sale
 
 
-## #sap-system
+### #sap-system
 
 
-## #schedule
+### #schedule
 
 
-## #security
+### #security
 
 
-## #security-talk
+### #security-talk
 
 
-## #silicon-valley
+### #silicon-valley
 
 
-## #slack_info
+### #slack_info
 
 
-## #slide_design_en
+### #slide_design_en
 
 
-## #slide_design_ja
+### #slide_design_ja
 
 
-## #slide_internet_en
+### #slide_internet_en
 
 
-## #slide_internet_ja
+### #slide_internet_ja
 
 
-## #slide_software_en
+### #slide_software_en
 
 
-## #slide_software_ja
+### #slide_software_ja
 
 
-## #slide_technology_en
+### #slide_technology_en
 
 
-## #slide_technology_ja
+### #slide_technology_ja
 
 
-## #stackshare
+### #stackshare
 
 
-## #startup
+### #startup
 
 
-## #sts_slack
+### #sts_slack
 
 
-## #support
+### #support
 
 
-## #talking-room-engineer
+### #talking-room-engineer
 
 
-## #tech_crunch_en
+### #tech_crunch_en
 
 
-## #techshare
+### #techshare
 
 
-## #tensor-flow
+### #tensor-flow
 
 
-## #test
+### #test
 
 
-## #test111
+### #test111
 
 
-## #think_it
+### #think_it
 
 
-## #times_test
+### #times_test
 
 
-## #trending
+### #trending
 
 
-## #tsuda
+### #tsuda
 
 
-## #twitter_canyn120
+### #twitter_canyn120
 
 
-## #twitter69
+### #twitter69
 
 
-## #twittertwitter
+### #twittertwitter
 
 
-## #unity
+### #unity
 
 
-## #unrealengine
+### #unrealengine
 
 
-## #ux-design-en
+### #ux-design-en
 
 
-## #vim
+### #vim
 
 
-## #vocaloid
+### #vocaloid
 
 
-## #vue
+### #vue
 
 
-## #vvvv
+### #vvvv
 
 
-## #we-like-swift
+### #we-like-swift
 
 
-## #web-design
+### #web-design
 
 
-## #web-design-job-seeker
+### #web-design-job-seeker
 
 
-## #web-front
+### #web-front
 
 
-## #windows
+### #windows
 
 
-## #wordpress
+### #wordpress
 
 
-## #work-calendar
+### #work-calendar
 
 
-## #xr
+### #xr
 
 
-## #youtube-conference
+### #youtube-conference
 
 
-## #youtube-tutorial
+### #youtube-tutorial
 
 
-## #zatsudan
+### #zatsudan
 
 
-## #zatudan
+### #zatudan
 
 
-## #zzzz
+### #zzzz
 
 
-## #教える会
+### #教える会
 
 
-## #都市環境機構
+### #都市環境機構
