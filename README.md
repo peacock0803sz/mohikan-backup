@@ -5,6 +5,8 @@
 
 ## Contributor
 
+- [peacock](https://github.com/peacock0803sz/)
+
 ## How to contribute
 
 ### RSS追加方法
@@ -23,7 +25,7 @@
 
 ### Contributor tenplate
 
-`[name](https://github.com/name)`
+`- [name](https://github.com/name)`
 
 ## LICENSE
 
