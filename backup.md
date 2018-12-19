@@ -149,6 +149,9 @@ RSS:
 
 ## #cloud-aws
 
+- https://qiita.com/tags/aws/feed.atom
+- https://dev.classmethod.jp/category/cloud/aws/feed/
+- http://b.hatena.ne.jp/search/tag?q=aws&sort=recent&mode=rss&safe=on
 
 ## #cloud-azure
 
