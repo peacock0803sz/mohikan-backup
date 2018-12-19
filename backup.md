@@ -666,6 +666,15 @@ RSS: https://qiita.com/popular-items/feed.atom
 
 ## #security
 
+RSS:
+- http://b.hatena.ne.jp/search/tag?safe=on&q=%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3&mode=rss
+- http://slashdot.jp/security.rss
+- https://alas.aws.amazon.com/alas.rss
+- https://rss.itmedia.co.jp/rss/2.0/news_security.xml
+- https://www.ipa.go.jp/security/rss/alert.rdf
+- https://www.jpcert.or.jp/rss/jpcert.rdf
+- http://feeds.trendmicro.com/TM-Securityblog/
+- https://jvn.jp/rss/jvn.rdf
 
 ## #security-talk
 
