@@ -163,6 +163,8 @@ Twitter: from:@azurestatusjp_a exclude:replys
 
 ## #cloud-gcp
 
+- https://qiita.com/tags/gcp/feed.atom
+- http://b.hatena.ne.jp/search/tag?q=gcp&sort=recent&mode=rss&safe=on
 
 ## #cloud-misc
 
