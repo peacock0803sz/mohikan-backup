@@ -149,6 +149,7 @@ RSS:
 
 ## #cloud-aws
 
+RSS:
 - https://qiita.com/tags/aws/feed.atom
 - https://dev.classmethod.jp/category/cloud/aws/feed/
 - http://b.hatena.ne.jp/search/tag?q=aws&sort=recent&mode=rss&safe=on
@@ -174,6 +175,8 @@ Twitter: from:@azurestatusjp_a exclude:replys
 
 ## #connpass
 
+RSS:
+- https://connpass.com/explore/ja.atom
 
 ## #cooking
 
