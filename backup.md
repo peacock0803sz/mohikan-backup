@@ -277,6 +277,9 @@ RSS: https://dev.classmethod.jp/feed/
 
 ## #firebase
 
+RSS:
+- http://b.hatena.ne.jp/search/tag?q=firebase&sort=recent&mode=rss&safe=on
+- https://qiita.com/tags/firebase/feed.atom
 
 ## #free-prog-books-ja
 
